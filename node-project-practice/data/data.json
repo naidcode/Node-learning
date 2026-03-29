@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "price": "15.00",
+    "genre": "Self Help",
+    "rating": "4.8",
+    "description": "A practical guide to building good habits and breaking bad ones.",
+    "cover": "📘"
+  },
+  {
+    "id": 1,
+    "bookName": "Deep Work",
+    "author": "Cal Newport",
+    "price": "18.00",
+    "genre": "Productivity",
+    "rating": "4.7",
+    "description": "Rules for focused success in a distracted world.",
+    "cover": "📗"
+  },
+  {
+    "id": 2,
+    "bookName": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": "25.00",
+    "genre": "Programming",
+    "rating": "4.9",
+    "description": "A handbook of agile software craftsmanship.",
+    "cover": "📕"
+  }
+]

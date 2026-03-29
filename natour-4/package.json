@@ -1,0 +1,17 @@
+{
+  "name": "natour-4",
+  "version": "1.0.0",
+  "description": "learning node.js ,express , mongoDB",
+  "license": "ISC",
+  "author": "Nahid Pasha",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.14"
+  }
+}

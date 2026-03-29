@@ -1,0 +1,15 @@
+{
+  "name": "asynchronous-node",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "nahid": "nodemon index.js"
+  },
+  "dependencies": {
+    "superagent": "^10.3.0"
+  }
+}
